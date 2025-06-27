@@ -970,21 +970,6 @@ span.button__67645.redGlow__67645 {
     margin: 3px 0 3px 0;
 }
 
-.visual-refresh .activityPanel_c48ade {
-    /*activitypanel*/
-    border-bottom: 1px solid var(--background-modifier-accent);
-    position: relative;
-    z-index: 2;
-    border-radius: 8px;
-    border: 1px solid var(--highlight);
-    margin-bottom: 3px;
-}
-
-.theme-dark .panel__5dec7 {
-    /*activitypanel bg*/
-    background: var(--darkPurple-background);
-}
-
 #vc-spotify-player {
     /*spotify controller*/
     padding: 0.375rem 0.5rem;
